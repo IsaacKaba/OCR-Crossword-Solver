@@ -1,0 +1,7 @@
+
+.vscode/
+obj/
+ocr_crosswords
+bin/
+solver/solver
+useless/dataset
