@@ -1,5 +1,7 @@
 #  OCR & Crossword Solver
 
+This repo was originally private
+
 A lightweight C-based application designed to perform Optical Character Recognition (OCR) on crossword puzzle images and automatically resolve them using a custom search-based solver and a GTK graphical user interface.
 
 ---
